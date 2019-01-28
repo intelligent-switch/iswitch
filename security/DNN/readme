@@ -1,1 +1,8 @@
-a
+Environment
+
+python 3.6.4  
+
+Run
+
+python train.py
+python test.py
